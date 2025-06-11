@@ -15,3 +15,10 @@ Project Highlights:
  
 --
 
+## 📷 Screenshots
+
+### Dashboard Overview 
+![Dashboard Overview](dashboard-overview.png)
+
+### Charts and Tables Overview 
+![Dashboard Overview](dashboard-details.png)
